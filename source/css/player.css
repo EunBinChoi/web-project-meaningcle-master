@@ -1,0 +1,33 @@
+﻿#player,#player a{ color:#000; font-size: 11px; font-family: verdana; text-transform:normal; } 
+#player{ background:url(http://static.tumblr.com/su8juwr/I64mkjm26/branco.png); background-position:bottom; background-color: #FFFFFF;}
+#player .mainImage{ background:url(http://static.tumblr.com/su8juwr/z31n0sx2u/skij.png); }
+
+#player #baseLeft{ width:93px; } 
+#player #baseRight{ width:145px;}  
+#player .button{  width:26px; }
+#player #play{ background:url(http://static.tumblr.com/su8juwr/tEkmst8a3/ski-crop.png); }
+#player #play,#player #pause{ left:0px; }
+#player #previous{ left:26px; } 
+#player #next{ left:42px; }
+#player #title{ left:100px;  font-size: 9px; }
+#player #tooltip{ right:565555px; }    
+#player #timer{ right:5555555px;  } 
+#player #list{ right:1270px; }    
+ 
+#player #seeker{ right:8888888888888888888888px; }  
+#player #seekerBase{ border-color:#fff;  } 
+#player #seekerBuffered{ background-color:#fff ; }  
+#player #seekerSliderBase{ background-color:#fff; } 
+
+#player #volume{ width:8888888px; right:8888888px; } 
+#player #volumeSlider{ width:777777px; background:url(); }
+
+#playlist,#playlist .module,#playlist h3{ border-color:#FFFFFF;}
+#playlist .module{  color:#000; background-color:#FFFFFF; }
+#playlist h3{ background:url(http://static.tumblr.com/su8juwr/PJnn0r57o/ski.png); color:#fff; background-color:#FFFFFF;  }
+#playlist .even{background-color:#fff;}
+#playlist .odd{ background-color:#fff;} 
+#playlist .focus{ background-color:#bebebe; color:#000;}       
+
+
+                                                     Skin feita por: pensamentos-antigos, NÃO PLAGIE. 
